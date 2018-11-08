@@ -1,2 +1,2 @@
-* text=auto
+*.php linguist-vendored
 CHANGELOG.md export-ignore
